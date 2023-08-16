@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.35d633a5.css",
+    "main.js": "/static/js/main.a0215336.js",
+    "static/media/Edificio.png": "/static/media/Edificio.5b9f8c11ab907dcc437d.png",
+    "static/media/codigo_etica.jpg": "/static/media/codigo_etica.10133b3218be51cb04da.jpg",
+    "static/media/LogoASE.png": "/static/media/LogoASE.d09f6c9deaf424c78eb1.png",
+    "static/media/Denuncia.png": "/static/media/Denuncia.5a4719b338d930aa4184.png",
+    "static/media/Comunicados.png": "/static/media/Comunicados.b657d0567aa22ab35487.png",
+    "index.html": "/index.html",
+    "main.35d633a5.css.map": "/static/css/main.35d633a5.css.map",
+    "main.a0215336.js.map": "/static/js/main.a0215336.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35d633a5.css",
+    "static/js/main.a0215336.js"
+  ]
+}
