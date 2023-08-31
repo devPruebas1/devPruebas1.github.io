@@ -1,18 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.35d633a5.css",
-    "main.js": "/static/js/main.a0215336.js",
+    "main.css": "/static/css/main.8adc331e.css",
+    "main.js": "/static/js/main.86659f79.js",
     "static/media/Edificio.png": "/static/media/Edificio.5b9f8c11ab907dcc437d.png",
     "static/media/codigo_etica.jpg": "/static/media/codigo_etica.10133b3218be51cb04da.jpg",
+    "static/media/Plataforma Nacional de Transparencia.png": "/static/media/Plataforma Nacional de Transparencia.4133d4077ed588b0d40a.png",
     "static/media/LogoASE.png": "/static/media/LogoASE.d09f6c9deaf424c78eb1.png",
+    "static/media/Contactanos.png": "/static/media/Contactanos.0f6ee1b06f6887bb6ba2.png",
+    "static/media/BotonDirectorio.png": "/static/media/BotonDirectorio.4f65d38e298935372339.png",
     "static/media/Denuncia.png": "/static/media/Denuncia.5a4719b338d930aa4184.png",
     "static/media/Comunicados.png": "/static/media/Comunicados.b657d0567aa22ab35487.png",
+    "static/media/Resultados de la Revision.png": "/static/media/Resultados de la Revision.670d0c37696ed6429f02.png",
+    "static/media/Historico de la LTAIPEZ.png": "/static/media/Historico de la LTAIPEZ.8a09540261a72f8e14f5.png",
+    "static/media/Aviso de Privacidad.png": "/static/media/Aviso de Privacidad.165fd51d3bd2fd86a84e.png",
+    "static/media/Obligaciones Titulo V LGCG.png": "/static/media/Obligaciones Titulo V LGCG.65d340e7859041ed4ba0.png",
     "index.html": "/index.html",
-    "main.35d633a5.css.map": "/static/css/main.35d633a5.css.map",
-    "main.a0215336.js.map": "/static/js/main.a0215336.js.map"
+    "main.8adc331e.css.map": "/static/css/main.8adc331e.css.map",
+    "main.86659f79.js.map": "/static/js/main.86659f79.js.map"
   },
   "entrypoints": [
-    "static/css/main.35d633a5.css",
-    "static/js/main.a0215336.js"
+    "static/css/main.8adc331e.css",
+    "static/js/main.86659f79.js"
   ]
 }
